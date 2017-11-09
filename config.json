@@ -1,0 +1,9 @@
+{
+  "key" : "your_key",
+  "secret" : "your_secret_key",
+  "repoll_period_ms": 5000, 
+  "btc_high" : "your_sell_value",
+  "btc_low" : "your_buy_value",
+  "eth_high" : "your_sell_value",
+  "eth_low" : "your_buy_value"
+}

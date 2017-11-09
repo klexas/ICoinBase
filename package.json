@@ -1,0 +1,28 @@
+{
+  "name": "coinbaseapi",
+  "version": "0.0.1",
+  "description": "Coinbase interface",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klexas/ICoinBase.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "CoinBase"
+  ],
+  "author": "iam@adamrobins.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klexas/ICoinBase/issues"
+  },
+  "homepage": "https://github.com/klexas/ICoinBase#readme",
+  "dependencies": {
+    "async-polling": "^0.2.1",
+    "chalk": "^2.3.0",
+    "coinbase": "^2.0.6"
+  }
+}
