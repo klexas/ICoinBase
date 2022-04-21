@@ -1,3 +1,7 @@
+##This is referenced to CoinGate
+https://github.com/klexas/CoinGate
+
+
 # ICoinBase
 Coinbase implementation in nodeJS
 A polling agent will check the current value and based on the high & low of the configuration will buy | sell. 
